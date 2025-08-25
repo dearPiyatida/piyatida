@@ -7,5 +7,5 @@ WORKDIR /app
 # copy ไฟล์ทั้งหมดไปใน container
 COPY . .
 
-# รัน php built-in server ที่ port 10000
-CMD ["php", "-S", "0.0.0.0:10000", "-t", "."]
+# ใช้ environment variable $PORT ที่ Render จะส่งเข้ามา
+CMD ["sh", "-c", "php -S 0.0.0.0:${PORT:-10000} -t ."]
