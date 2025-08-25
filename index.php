@@ -2479,7 +2479,7 @@
                                     <span class="info-tag">🏆 รางวัล: รองชนะเลิศอันดับ 1</span>
                                 </div>
                                 <div class="activity-links">
-                                    <a href="ac3-1.jpg" class="activity-link photos">📸 ภาพกิจกรรม</a>
+                                    <a href="img/ac3-1.jpg" class="activity-link photos">📸 ภาพกิจกรรม</a>
                                     <a href="pdf/CWIE.pdf" class="activity-link project">🚀 โปรเจค</a>
                                 </div>
                             </div>
