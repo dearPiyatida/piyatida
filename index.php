@@ -2222,7 +2222,7 @@
                                     <span class="tech-tag">MQTT</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="https://smartgrid.cmru.ac.th/waste/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="https://smartgrid.cmru.ac.th/waste/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo </a>
                                     
                                 </div>
                             </div>
@@ -2249,7 +2249,7 @@
                                     <span class="tech-tag">Bootstrap</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="http://energy.uru.ac.th/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="http://energy.uru.ac.th/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
                                     
                                 </div>
                             </div>
@@ -2276,7 +2276,7 @@
                                     <span class="tech-tag">Socket.io</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="http://10.0.2.225/electric_bill/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="http://10.0.2.225/electric_bill/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
                                     
                                 </div>
                             </div>
@@ -2303,7 +2303,7 @@
                                     <span class="tech-tag">Bootstrap</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="http://10.0.2.225/data_edmi/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="http://10.0.2.225/data_edmi/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
                                     
                                 </div>
                             </div>
@@ -2330,7 +2330,7 @@
                                     <span class="tech-tag">Bootstrap</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="http://10.0.2.225/Charging_Station/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="http://10.0.2.225/Charging_Station/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
                                     
                                 </div>
                             </div>
@@ -2357,7 +2357,7 @@
                                     <span class="tech-tag">Bootstrap</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="http://10.0.2.225/CFO-URU/public/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="http://10.0.2.225/CFO-URU/public/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
                                     
                                 </div>
                             </div>
@@ -2384,7 +2384,7 @@
                                     <span class="tech-tag">Bootstrap</span>
                                 </div>
                                 <div class="project-links">
-                                    <a href="http://research.uru.ac.th/" class="project-link demo">🌐 Live Demo</a>
+                                    <a href="http://research.uru.ac.th/" class="project-link demo" target="_blank" rel="noopener noreferrer">🌐 Live Demo</a>
                                     
                                 </div>
                             </div>
